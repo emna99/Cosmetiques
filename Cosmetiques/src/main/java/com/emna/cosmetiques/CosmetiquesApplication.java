@@ -1,0 +1,13 @@
+package com.emna.cosmetiques;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CosmetiquesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CosmetiquesApplication.class, args);
+	}
+
+}
